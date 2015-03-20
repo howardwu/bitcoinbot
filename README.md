@@ -1,9 +1,9 @@
 # bitcoinbot
 
-WELCOME TO OUR BITCOIN SIMULATION TRADING SYSTEM!
+Welcome to our Bitcoin Simulation Trading System!
 ----------------------------------------------------
 
-BASIC COMMANDS
+Basic Commands
 ---------------
 START - Starts the simulation trading bot <br />
 START LIVE - Starts the live trading bot <br />
