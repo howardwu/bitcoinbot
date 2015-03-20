@@ -4,7 +4,7 @@ WELCOME TO OUR BITCOIN SIMULATION TRADING SYSTEM!
 
 BASIC COMMANDS
 ---------------
-START - Starts the simulation trading bot 
+START - Starts the simulation trading bot <br />
 START LIVE - Starts the live trading bot 
 BUY X - Purchase X USD amount of bitcoins 
 STATUS - Get the status of the bot 
