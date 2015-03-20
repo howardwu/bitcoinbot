@@ -1,0 +1,52 @@
+Good Information to Know:
+-------------------------
+
+Tested: Update correctly calls from main.py -> bot.py -> TM.py, where bot.py will properly continue to call TM.py
+
+
+Bugs Fixed:
+-----------
+ - Buy command in main.py correctly purchases given balance only when TM's hasFunds is true
+
+ - Timer delay for update now delays both bot.py's update and TM.py's update
+
+ - TM.py's update call to sell correctly sells, layers of incorrect method calls fixed
+
+
+Things to Implement (In Order of Priority):
+-------------------------------------------
+
+DONE - A way to poll how much usd and btc I have, or how much has been invested in status, include how much lost
+
+DONE - Create new TM when a previous TM is destroyed
+
+DONE - Display a transaction log when desired 
+
+DONE - Display whether a sell transaction gave a profit or a loss
+
+After buying some BTC, then the bot sells, still unable to buy more BTC. Something wrong with balance?
+
+Implement correct fee structure for okCoin
+
+Create a command that allows the user to determine at what percent a TM is killed - "Safety?" currently seems to sell too quick?
+
+Improve readability for log: Clean dates, etc, a bit?
+
+How to use sentiment?
+    emergency sell
+    gauge volatility
+    alter strategies
+        very negative news -> buy
+        when positive news appears -> stop buying
+
+catch "ConnectionError: ('Connection aborted.', error(54, 'Connection reset by peer'))" in simulation
+
+Quicker buys?
+
+A clear screen cmd for the interface
+
+Clean up methods for how text is colored in terminal
+
+Better art.txt (looks pretty nifty now, could be smaller)
+
+Real trading (last step)

@@ -1,0 +1,64 @@
+jonathanking:bitcoinHFT~ python -i sentiment.py
+getTweetSentiment(2)>>> getTweetSentiment(2)
+Bitcoin, which has endured a stiff price decline since its late-2013 heights, is back below the $300 mark http://t.co/6PuoGyLQ5n
+Sentiment = -0.388432693019
+SpaceBIT Introduces First Ever Space Banking Program For Bitcoin And Cryptocurrencies - http://t.co/dOHxJVj1Dn
+Sentiment = 0.205800409728
+-0.0913161416455
+>>> request_count
+1
+>>> getGoogleSentiment(False)
+Bitstamp exchange hacked, $5M worth of BTC stolen
+Sentiment = -0.742993359811
+Markets Weekly: BTC New Year Starts With a Crash
+Sentiment = -0.00422919348476
+China's rallying stock market could be the cause of this weekend's BTC
+Sentiment = -0.319587493127
+Crypto 2.0 in 2015: Turning BTC Theory Into Big Business
+Sentiment = -0.205741940786
+The BTC Bowl's Huge Success
+Sentiment = 0.330491811775
+BTC Messenger App GetGems Raises $400k From Waze Investor
+Sentiment = 0.104553929901
+BTC New Year Price Plunge
+Sentiment = 0.538948821539
+Bitstamp Suspends Its BTC Exchange Following A Suspected Hack
+Sentiment = -1.32399666369
+BTC News in Review: GAW, Winklevoss ETF, Mt. Gox Fraud BTC
+Sentiment = -0.39641405985
+California Delays Decision on BTC Regulation
+Sentiment = -0.145644463299
+Security breach and price crash mark bad start to 2015 for BTC
+Sentiment = -0.424841221302
+Exchange: Lost 'less than' $5.1M of BTC
+Sentiment = -0.565959682178
+CES 2015 will feature virtual-currency showcase
+Sentiment = 0.0853245887204
+GetGems Messaging App Gets $400k VC Funding
+Sentiment = -0.0202877462577
+BTC was the Worst Performing Currency of 2014
+Sentiment = -0.616317692319
+ShapeShift Ends its Relationship with PayCoin
+Sentiment = -0.245330219958
+European BTC exchange Bitstamp suspended trading Monday after one of its active, operational BTC storage wallets was "compromised" 
+Sentiment = -0.0182917647329
+BTC price crashed over the New Year weekend, losing $51 over two days. According to the CoinDesk BTC Price Index, the currency 
+Sentiment = -0.243163050146
+BTC was not only the worst performing currency last year, it was the worst area of investment. The BTC-US dollar rate fell 59% to around 
+Sentiment = -0.752055992208
+There are still very few projects, BTC 1.0 or 2.0, that have really ... one of the BTC industry's most exciting and controversial sectors.
+Sentiment = -0.213089161801
+Since 2008, the St. Petersburg Bowl has taken place yearly. In 2008 the sponsor was MagicJack. More recently, BitPay sponsored the event.
+Sentiment = 0.167642168222
+“We hope our investment as a well-known venture capital firm would also increase the BTC community as well as general public's trust in 
+Sentiment = 0.327862906154
+BTC prices took a nosedive this weekend falling a whopping 17.2 percent, in just 72 hours, from 311.05 on Friday to $257.61 on Sunday.
+Sentiment = -0.269413879504
+The year is but five days old but already we have our first BTC hacking story of 2015 after Bitstamp, a Slovenia-based exchange that raised 
+Sentiment = -0.115237844865
+news text With the end of another week, it's time for the BTC News in Review, where we feature some of the top stories of the week here on 
+Sentiment = -0.367934982189
+California's financial services and money transmitters regulator did not rule on whether it would regulate BTC at a scheduled December 
+Sentiment = -0.400222014874
+-0.22445877692580615
+>>> 
